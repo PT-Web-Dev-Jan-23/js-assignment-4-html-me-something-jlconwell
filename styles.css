@@ -1,1 +1,34 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 70px;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+    color:darkblue;
+    font-size: 20px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.gameHeading {
+    font-size: 30px;
+}
+
+#finalPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.gamePic {
+    width: 25%;
+}
